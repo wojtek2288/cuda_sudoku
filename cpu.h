@@ -1,0 +1,1 @@
+float solveWithCpu(const int *sudoku, int *result);
